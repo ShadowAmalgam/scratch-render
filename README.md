@@ -1,7 +1,6 @@
-# TurboWarp/scratch-render
+# scratch-render
 
-scratch-render modified for use in [TurboWarp](https://turbowarp.org/). We've optimized some operations and added a lot of options.
-
+scratch-render from Turbowarp.
 ## Setup
 
 See https://github.com/TurboWarp/scratch-gui/wiki/Getting-Started to setup the complete TurboWarp environment.
